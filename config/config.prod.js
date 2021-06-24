@@ -3,6 +3,6 @@
  */
 
 exports.vod = {
-  accessKeyId: process.env.accessKeyId,
-  accessKeySecret: process.env.accessKeySecret,
+	accessKeyId: 'LTAI5tMXN2evuDSrw1zBSKAb',
+	accessKeySecret: 'OPO5eyGnMS1Cy5b1j5KHZbMGuy1gdg',
 };
