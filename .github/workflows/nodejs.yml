@@ -1,6 +1,5 @@
 # .github/workflows/nodejs.yml
 name: Node.js CI
-
 on:
   push:
     branches: [master]
